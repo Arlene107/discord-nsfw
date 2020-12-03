@@ -1,0 +1,22 @@
+{
+  "name": "discord-nsfw",
+  "version": "1.2.1",
+  "description": "A simple package to implement NSFW commands for discord bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nsfw",
+    "discord-nsfw",
+    "discord",
+    "discord-hentai",
+    "discord-anime",
+    "anime"
+  ],
+  "author": "Arlene",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}

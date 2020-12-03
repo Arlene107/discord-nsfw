@@ -1,10 +1,14 @@
 {
   "name": "discord-nsfw",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "A simple package to implement NSFW commands for discord bots.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arlene107/discord-nsfw.git"
   },
   "keywords": [
     "nsfw",
@@ -15,7 +19,11 @@
     "anime"
   ],
   "author": "Arlene",
-  "license": "GPL-3.0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arlene107/discord-nsfw/issues"
+  },
+  "homepage": "https://github.com/Arlene107/discord-nsfw#readme",
   "dependencies": {
     "superagent": "^6.1.0"
   }
